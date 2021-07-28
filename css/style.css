@@ -1,3 +1,22 @@
+.header-bg-color{
+    background-color: #264653;
+}
+.btn-color{
+    color: #FFFFFF;
+    width: 168px;
+    height: 44px;
+    background-color: #E76F51;
+    border-radius: 5px;
+}
+.header-text-color{
+    color: #E76F51;
+}
 .filter-gray{
     filter: grayscale(100%);
 }
+.fa-star.empty{
+    color: #AEAEAE;
+ }
+ .client-name-txt-color{
+     color: #23A6F0;
+ }
