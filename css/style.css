@@ -1,3 +1,8 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
 .header-bg-color{
     background-color: #264653;
 }
@@ -15,8 +20,19 @@
     filter: grayscale(100%);
 }
 .fa-star.empty{
-    color: #AEAEAE;
+    color: #E76F51;
  }
  .client-name-txt-color{
      color: #23A6F0;
  }
+ .hover-icon-footer:hover{
+     color: gray;
+ }
+ .links{
+     color: black;
+     text-decoration: none;
+ }
+ .links:hover{
+    text-decoration: underline;
+    color: #E76F51;
+}
